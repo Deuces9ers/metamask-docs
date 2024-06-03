@@ -1,4 +1,5 @@
 @deuces9ers protocol # MetaMask developer documentation
+#Thanks to all whom helped 
 
 This is the MetaMask developer documentation repository.
 The documentation site is hosted at [`docs.metamask.io`](https://docs.metamask.io), and it's
