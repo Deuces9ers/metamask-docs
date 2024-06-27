@@ -9,8 +9,35 @@ The latest major MetaMask documentation updates are listed by the month they wer
 For a comprehensive list of recent product changes, visit the "Release Notes" section at the bottom
 of the [MetaMask developer page](https://metamask.io/developer/).
 
+## June 2024
+
+- Updated [React dapp with global state tutorial](/wallet/tutorials/react-dapp-global-state) with
+  instructions for EIP-6963.
+  ([#1330](https://github.com/MetaMask/metamask-docs/pull/1330))
+- Documented that the Gas API can be [called without an API key secret](/services/gas-api/api-reference). ([#1346](https://github.com/MetaMask/metamask-docs/pull/1346))
+- Updated [Snaps resources](/snaps/learn/resources) and added a new section "Snaps for developers." ([#1329](https://github.com/MetaMask/metamask-docs/pull/1329))
+- Documented [how to allow automatic connections to a Snap](/snaps/how-to/allow-automatic-connections).
+  ([#1322](https://github.com/MetaMask/metamask-docs/pull/1322))
+
 ## May 2024
 
+- Added a beginner tutorial for [creating a simple dapp](/wallet/tutorials/javascript-dapp-simple) using vanilla JavaScript. 
+  ([#1276](https://github.com/MetaMask/metamask-docs/pull/1276)) 
+- Discontinued support for [`eth_sign`](/wallet/concepts/signing-methods/#eth_sign).
+  ([#1319](https://github.com/MetaMask/metamask-docs/pull/1319/))
+- Updated [React dapp with local state tutorial](/wallet/tutorials/react-dapp-local-state) with
+  instructions for EIP-6963.
+  ([#1299](https://github.com/MetaMask/metamask-docs/pull/1299))
+- Documented [Snaps initial connections](/snaps/reference/permissions/#initial-connections).
+  ([#1318](https://github.com/MetaMask/metamask-docs/pull/1318/))
+- Updated [Snaps allowlisting guide](/snaps/how-to/get-allowlisted) with open permissions.
+  ([#1310](https://github.com/MetaMask/metamask-docs/pull/1310/))
+- Documented [Snaps transaction insights](/snaps/features/transaction-insights).
+  ([#1304](https://github.com/MetaMask/metamask-docs/pull/1304))
+- Documented [Snaps home pages](/snaps/features/custom-ui/home-pages).
+  ([#1302](https://github.com/MetaMask/metamask-docs/pull/1302))
+- Documented [Snaps dialogs](/snaps/features/custom-ui/dialogs).
+  ([#1302](https://github.com/MetaMask/metamask-docs/pull/1302))
 - Documented [Snaps network access](/snaps/features/network-access).
   ([#1301](https://github.com/MetaMask/metamask-docs/pull/1301))
 - Documented [provider API methods for removing event listeners](/wallet/reference/provider-api/#remove-event-listeners).
